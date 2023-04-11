@@ -1,0 +1,28 @@
+.bor-but{
+    border-bottom: 2px solid black;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    padding-left: 20px;
+    margin-top: 5px;
+}
+ul li{
+    list-style: none;
+    
+}
+ul li a i{
+    color: gold;
+}
+.button{
+    background: blue;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    
+    
+}
+.pd{
+    display: block;
+    padding: 6px 20px;
+}
